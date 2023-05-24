@@ -14,8 +14,8 @@ Installation of vscode
 Installation of reguired programming language(python latest version 3.11.2)
 
 # Features
-1.Real-time detection and counting of objects.
-2.Displaying the count. 
+1. Real-time detection and counting of objects.
+2. Displaying the count. 
 
 # Applications 
 * security
@@ -28,13 +28,13 @@ Installation of reguired programming language(python latest version 3.11.2)
 finally, i would like to conclude that this project aims in contrubuting for the development of the society in this busy world and enhance the security condition in various fields.
 
 # Team members
-1.P.Rukhiya Begum(Team leader)
-2.R.Haripriya
-3.S.Anusha
-4.D.Hasina
-5.G.Harika
-6.D.fayazali
-7.kalyan
+1. P.Rukhiya Begum(Team leader)
+2. R.Haripriya
+3. S.Anusha
+4. D.Hasina
+5. G.Harika
+6. D.fayazali
+7. kalyan
 
 # Acknowledgement
 I would like to express my gratitude to the entire byts team and our CDC cell of RGMCET for thinking about our career ehancement and for providing this kind of wonderful opportunities.

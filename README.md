@@ -34,7 +34,7 @@ finally, i would like to conclude that this project aims in contrubuting for the
 4. D.Hasina
 5. G.Harika
 6. D.fayazali
-7. kalyan
+7. T.kalyan Kumar
 
 # Acknowledgement
 I would like to express my gratitude to the entire byts team and our CDC cell of RGMCET for thinking about our career ehancement and for providing this kind of wonderful opportunities.
